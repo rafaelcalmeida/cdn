@@ -3,7 +3,7 @@
     "banco": 90,
     "app": 560
   },
-  "versions": [
+  "corpVersions": [
     {
       "banco": 98,
       "app": 562
@@ -11,6 +11,12 @@
     {
       "banco": 99,
       "app": 566
+    }
+  ],
+  "plusVersions": [
+    {
+      "banco": 98,
+      "app": 562
     }
   ]
 }
