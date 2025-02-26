@@ -1,6 +1,6 @@
 {
   "minVersion": {
-    "banco": 100,
+    "banco": 90,
     "app": 560
   },
   "versions": [
