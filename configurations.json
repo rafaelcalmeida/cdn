@@ -1,22 +1,8 @@
 {
   "minVersion": {
-    "banco": 90,
-    "app": 560
+    "banco": 0,
+    "app": 0
   },
-  "corpVersions": [
-    {
-      "banco": 98,
-      "app": 562
-    },
-    {
-      "banco": 99,
-      "app": 566
-    }
-  ],
-  "plusVersions": [
-    {
-      "banco": 98,
-      "app": 562
-    }
-  ]
+  "corpVersions": [],
+  "plusVersions": []
 }
